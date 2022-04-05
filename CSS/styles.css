@@ -1,0 +1,25 @@
+    body {
+        background-image: url('images/triyansh.jpg');
+      }
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 10%;
+    border-color: gray;
+    
+}
+h2{
+    text-align: center;
+    color: lightsteelblue;
+    margin-top: 18%;
+    font-size: 40px;
+    
+}
+p{
+    text-align: center;
+    color: red;
+    font-size: 20;
+    
+}
